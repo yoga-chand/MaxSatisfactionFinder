@@ -1,5 +1,3 @@
-# MaxSatisfactionFinder
-
 # Problem Statement:
 Gordon is at a restaurant and he has many different types of food to choose from. Gordon gets x amount of satisfaction and requires y amount of time to eat an item from the menu. Given t minutes, write a java program that reads the text file and ﬁnds out the maximum satisfaction that Gordon can get from eating at the restaurant.
 
@@ -17,7 +15,8 @@ Below are the inputs considered to solve this problem
 3. Satisfaction value of each item
 4. Time taken to eat an item
 
-# Output: Maximum Satisfaction value for the given time
+# Output: 
+Maximum Satisfaction value for the given time
 
 # Steps to run the project.
 
